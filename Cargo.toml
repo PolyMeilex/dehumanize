@@ -1,0 +1,11 @@
+[package]
+name = "dehumanize"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+keywords = ["CLI", "tool"]
+description = "Dehumanize text binary data into raw bytes "
+
+
+[dependencies]
+gumdrop = "0.8.1"
